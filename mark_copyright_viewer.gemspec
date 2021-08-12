@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "This gem is used to add copy right content to your webapp, it self updates the year"
   spec.description   = "It generates and returns formatted html with the copy right symbol and year"
-  spec.homepage      = "403codes.com"
+  spec.homepage      = "www.403codes.com"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.4.0")
 
